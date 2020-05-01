@@ -1,0 +1,39 @@
+.pancasila{
+	font-size: 35pt;
+	text-align: center;
+	margin-top: 80px;
+}
+.tengah{
+	
+    text-align: center;
+	width: 350px; 
+	height: 300px;
+
+}
+
+
+.deskripsi_01{
+	padding-top: 110px;
+	margin-left: 320px;
+	font-size: 30px;
+}
+.deskripsi_02{
+	padding-top: 120px;
+	margin-right: 320px;
+	font-size: 30px;
+	text-align: right;
+}
+.gambar_01{
+	margin-left: 100px;
+	width: 200px;
+	height: 200px;
+	margin-top: 40px;
+	float: left;
+}
+.gambar_02{
+	margin-right: 100px;
+	width: 200px;
+	height: 200px;
+	margin-top: 40px;
+	float: right;
+}
